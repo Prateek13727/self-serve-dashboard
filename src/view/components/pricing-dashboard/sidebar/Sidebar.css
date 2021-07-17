@@ -1,0 +1,11 @@
+.sidebar {
+  margin-left: 200px;
+}
+
+.sidebar > .sidebar-items {
+  list-style: none;
+}
+
+.sidebar > .sidebar-items > .sidebar-item > .link-item {
+  text-decoration: none;
+}
