@@ -1,7 +1,0 @@
-.app {
-  display: flex;
-}
-
-.app > .app-container {
-  margin: 0 100px;
-}
