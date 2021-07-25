@@ -1,17 +1,9 @@
 import PricingDashboard from './PricingDashboard';
 
-const Taskbar = () => {
-  return <>
-    Taskbar
-  </>
-}
-
 const PricingDashboardContainer = () => {
-  return <>
-    <Taskbar />
+  return <div>
     <PricingDashboard />
-  </>
-
+  </div>
 }
 
 export default PricingDashboardContainer;

@@ -1,7 +1,7 @@
-import PricingDashboard from "../pricing-dashboard/PricingDashboardContainer";
+import PricingDashboardContainer from "../pricing-dashboard/PricingDashboardContainer";
 
 const Tabs = () => {
-  return <PricingDashboard />
+  return <PricingDashboardContainer />
 }
 
 export default Tabs;

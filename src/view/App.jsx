@@ -1,5 +1,5 @@
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
-import Sidebar from './components/sidebar/Sidebar';
+import Sidebar from './components/pricing-dashboard/sidebar/Sidebar';
 
 import './App.css';
 
